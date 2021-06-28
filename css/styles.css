@@ -72,7 +72,7 @@ table {
 
 body {
     font-family: 'Poppins', sans-serif;
-    font-size: clamp(16px, 1.5vw, 24px);
+    font-size: clamp(16px, 1.25vw, 24px);
     color: var(--primary)
 }
 
